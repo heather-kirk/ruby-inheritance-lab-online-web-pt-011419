@@ -5,4 +5,5 @@ class Teacher < User
   def teach(arr)
     arr.sample
   end 
+  
 end
